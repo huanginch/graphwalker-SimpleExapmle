@@ -1,6 +1,6 @@
 # A Simple Graph Walker Example with Selenium
 This is a simple example of using the [GraphWalker](http://graphwalker.org) framework with Selenium.
-
+You can go to my blog to read the [Graphwalker: A Simple Example with Selenium](https://inthuang.tw/2023/03/13/graphwalker-example/) article. (But it is written in Chinese.)
 ## Target
 Test the [Wine World](https://inthuang.tw/WineWorld/) website path from Home page to Product page and ProductDetail page.
 
