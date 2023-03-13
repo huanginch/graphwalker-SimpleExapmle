@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<testsuites time="16.909" tests="1" failures="0" errors="0">
+    <testsuite name="GraphWalker" tests="1" failures="0" errors="0" time="16.909" timestamp="2023-03-13T12:54:14">
+        <properties>
+            <property name="classworlds.conf" value="C:\apache-maven-3.9.0\bin\m2.conf"/>
+            <property name="env.=C:" value="C:\"/>
+            <property name="env.=D:" value="D:\mygraphwalker\WineWorld"/>
+            <property name="env.ACSETUPSVCPORT" value="23210"/>
+            <property name="env.ACSVCPORT" value="17532"/>
+            <property name="env.ALLUSERSPROFILE" value="C:\ProgramData"/>
+            <property name="env.APPDATA" value="C:\Users\ASUS\AppData\Roaming"/>
+            <property name="env.CHROME_CRASHPAD_PIPE_NAME" value="\\.\pipe\LOCAL\crashpad_23288_BOKSZDCYXNQUXBMO"/>
+            <property name="env.CLASSWORLDS_JAR" value="&quot;C:\apache-maven-3.9.0\boot\plexus-classworlds-2.6.0.jar&quot;"/>
+            <property name="env.CLASSWORLDS_LAUNCHER" value="org.codehaus.plexus.classworlds.launcher.Launcher"/>
+            <property name="env.COLORTERM" value="truecolor"/>
+            <property name="env.COMMONPROGRAMFILES" value="C:\Program Files\Common Files"/>
+            <property name="env.COMMONPROGRAMFILES(X86)" value="C:\Program Files (x86)\Common Files"/>
+            <property name="env.COMMONPROGRAMW6432" value="C:\Program Files\Common Files"/>
+            <property name="env.COMPUTERNAME" value="LAPTOP-LO05QSVK"/>
+            <property name="env.COMSPEC" value="C:\Windows\system32\cmd.exe"/>
+            <property name="env.CUDA_PATH" value="C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7"/>
+            <property name="env.CUDA_PATH_V11_7" value="C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7"/>
+            <property name="env.DRIVERDATA" value="C:\Windows\System32\Drivers\DriverData"/>
+            <property name="env.ERROR_CODE" value="0"/>
+            <property name="env.EXEC_DIR" value="D:\mygraphwalker\WineWorld"/>
+            <property name="env.GIT_ASKPASS" value="c:\Users\ASUS\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\askpass.sh"/>
+            <property name="env.HOMEDRIVE" value="C:"/>
+            <property name="env.HOMEPATH" value="\Users\ASUS"/>
+            <property name="env.JAVACMD" value="C:\Program Files\Java\jdk-19\bin\java.exe"/>
+            <property name="env.JAVA_HOME" value="C:\Program Files\Java\jdk-19"/>
+            <property name="env.JVMCONFIG" value="\.mvn\jvm.config"/>
+            <property name="env.LANG" value="en_US.UTF-8"/>
+            <property name="env.LOCALAPPDATA" value="C:\Users\ASUS\AppData\Local"/>
+            <property name="env.LOGONSERVER" value="\\LAPTOP-LO05QSVK"/>
+            <property name="env.MAVEN_CMD_LINE_ARGS" value="clean graphwalker:test -e"/>
+            <property name="env.MAVEN_HOME" value="C:\apache-maven-3.9.0"/>
+            <property name="env.MAVEN_PROJECTBASEDIR" value="D:\mygraphwalker\WineWorld"/>
+            <property name="env.MVN_HOME" value="C:\apache-maven-3.9.0"/>
+            <property name="env.NUMBER_OF_PROCESSORS" value="16"/>
+            <property name="env.NVM_HOME" value="C:\Users\ASUS\AppData\Roaming\nvm"/>
+            <property name="env.NVM_SYMLINK" value="C:\node.js"/>
+            <property name="env.NVTOOLSEXT_PATH" value="C:\Program Files\NVIDIA Corporation\NvToolsExt\"/>
+            <property name="env.ONEDRIVE" value="C:\Users\ASUS\OneDrive"/>
+            <property name="env.ONEDRIVECONSUMER" value="C:\Users\ASUS\OneDrive"/>
+            <property name="env.ORIGINAL_XDG_CURRENT_DESKTOP" value="undefined"/>
+            <property name="env.OS" value="Windows_NT"/>
+            <property name="env.PATH" value="C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\libnvvp;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;D:\putty\;C:\Git\cmd;C:\Program Files\NVIDIA Corporation\Nsight Compute 2022.2.0\;C:\Users\ASUS\AppData\Roaming\nvm;C:\node.js;C:\apache-maven-3.9.0\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\libnvvp;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;D:\putty\;C:\Git\cmd;C:\Program Files\NVIDIA Corporation\Nsight Compute 2022.2.0\;C:\Users\ASUS\AppData\Roaming\nvm;C:\node.js;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\libnvvp;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Microsoft;C:\Git\bin;C:\Program Files\Java\jdk-19\bin;C:\Program Files\Java\JUnit;C:\Users\ASUS\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\ASUS\AppData\Local\Programs\Python\Python310\Scripts;"/>
+            <property name="env.PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL"/>
+            <property name="env.PROCESSOR_ARCHITECTURE" value="AMD64"/>
+            <property name="env.PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 141 Stepping 1, GenuineIntel"/>
+            <property name="env.PROCESSOR_LEVEL" value="6"/>
+            <property name="env.PROCESSOR_REVISION" value="8d01"/>
+            <property name="env.PROGRAMDATA" value="C:\ProgramData"/>
+            <property name="env.PROGRAMFILES" value="C:\Program Files"/>
+            <property name="env.PROGRAMFILES(X86)" value="C:\Program Files (x86)"/>
+            <property name="env.PROGRAMW6432" value="C:\Program Files"/>
+            <property name="env.PROMPT" value="$P$G"/>
+            <property name="env.PSMODULEPATH" value="C:\Users\ASUS\OneDrive\文件\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules"/>
+            <property name="env.PUBLIC" value="C:\Users\Public"/>
+            <property name="env.RLSSVCPORT" value="22112"/>
+            <property name="env.SESSIONNAME" value="Console"/>
+            <property name="env.SYSTEMDRIVE" value="C:"/>
+            <property name="env.SYSTEMROOT" value="C:\Windows"/>
+            <property name="env.TEMP" value="C:\Users\ASUS\AppData\Local\Temp"/>
+            <property name="env.TERM_PROGRAM" value="vscode"/>
+            <property name="env.TERM_PROGRAM_VERSION" value="1.76.1"/>
+            <property name="env.TMP" value="C:\Users\ASUS\AppData\Local\Temp"/>
+            <property name="env.USERDOMAIN" value="LAPTOP-LO05QSVK"/>
+            <property name="env.USERDOMAIN_ROAMINGPROFILE" value="LAPTOP-LO05QSVK"/>
+            <property name="env.USERNAME" value="ASUS"/>
+            <property name="env.USERPROFILE" value="C:\Users\ASUS"/>
+            <property name="env.VBOX_MSI_INSTALL_PATH" value="D:\OVM\;C:\Program Files\Oracle\VirtualBox\"/>
+            <property name="env.VSCODE_GIT_ASKPASS_EXTRA_ARGS" value="--ms-enable-electron-run-as-node"/>
+            <property name="env.VSCODE_GIT_ASKPASS_MAIN" value="c:\Users\ASUS\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\askpass-main.js"/>
+            <property name="env.VSCODE_GIT_ASKPASS_NODE" value="C:\Users\ASUS\AppData\Local\Programs\Microsoft VS Code\Code.exe"/>
+            <property name="env.VSCODE_GIT_IPC_HANDLE" value="\\.\pipe\vscode-git-ebee42c0d4-sock"/>
+            <property name="env.VSCODE_INJECTION" value="1"/>
+            <property name="env.WDIR" value="D:\"/>
+            <property name="env.WINDIR" value="C:\Windows"/>
+            <property name="env.ZES_ENABLE_SYSMAN" value="1"/>
+            <property name="file.encoding" value="UTF-8"/>
+            <property name="file.separator" value="\"/>
+            <property name="java.class.path" value="C:\apache-maven-3.9.0\boot\plexus-classworlds-2.6.0.jar"/>
+            <property name="java.class.version" value="63.0"/>
+            <property name="java.home" value="C:\Program Files\Java\jdk-19"/>
+            <property name="java.io.tmpdir" value="C:\Users\ASUS\AppData\Local\Temp\"/>
+            <property name="java.library.path" value="C:\Program Files\Java\jdk-19\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\libnvvp;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;D:\putty\;C:\Git\cmd;C:\Program Files\NVIDIA Corporation\Nsight Compute 2022.2.0\;C:\Users\ASUS\AppData\Roaming\nvm;C:\node.js;C:\apache-maven-3.9.0\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\libnvvp;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;D:\putty\;C:\Git\cmd;C:\Program Files\NVIDIA Corporation\Nsight Compute 2022.2.0\;C:\Users\ASUS\AppData\Roaming\nvm;C:\node.js;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\libnvvp;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Microsoft;C:\Git\bin;C:\Program Files\Java\jdk-19\bin;C:\Program Files\Java\JUnit;C:\Users\ASUS\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\ASUS\AppData\Local\Programs\Python\Python310\Scripts;;."/>
+            <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+            <property name="java.runtime.version" value="19.0.2+7-44"/>
+            <property name="java.specification.name" value="Java Platform API Specification"/>
+            <property name="java.specification.vendor" value="Oracle Corporation"/>
+            <property name="java.specification.version" value="19"/>
+            <property name="java.vendor" value="Oracle Corporation"/>
+            <property name="java.vendor.url" value="https://java.oracle.com/"/>
+            <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+            <property name="java.version" value="19.0.2"/>
+            <property name="java.version.date" value="2023-01-17"/>
+            <property name="java.vm.compressedOopsMode" value="Zero based"/>
+            <property name="java.vm.info" value="mixed mode, sharing"/>
+            <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+            <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+            <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+            <property name="java.vm.specification.version" value="19"/>
+            <property name="java.vm.vendor" value="Oracle Corporation"/>
+            <property name="java.vm.version" value="19.0.2+7-44"/>
+            <property name="jdk.debug" value="release"/>
+            <property name="library.jansi.path" value="C:\apache-maven-3.9.0\lib\jansi-native"/>
+            <property name="line.separator" value="&#13;&#10;"/>
+            <property name="maven.build.version" value="Apache Maven 3.9.0 (9b58d2bad23a66be161c4664ef21ce219c2c8584)"/>
+            <property name="maven.conf" value="C:\apache-maven-3.9.0/conf"/>
+            <property name="maven.home" value="C:\apache-maven-3.9.0"/>
+            <property name="maven.multiModuleProjectDirectory" value="D:\mygraphwalker\WineWorld"/>
+            <property name="maven.version" value="3.9.0"/>
+            <property name="native.encoding" value="MS950"/>
+            <property name="os.arch" value="amd64"/>
+            <property name="os.name" value="Windows 10"/>
+            <property name="os.version" value="10.0"/>
+            <property name="path.separator" value=";"/>
+            <property name="stderr.encoding" value="ms950"/>
+            <property name="stdout.encoding" value="ms950"/>
+            <property name="sun.arch.data.model" value="64"/>
+            <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-19\bin"/>
+            <property name="sun.cpu.endian" value="little"/>
+            <property name="sun.cpu.isalist" value="amd64"/>
+            <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+            <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean graphwalker:test -e"/>
+            <property name="sun.java.launcher" value="SUN_STANDARD"/>
+            <property name="sun.jnu.encoding" value="MS950"/>
+            <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+            <property name="sun.os.patch.level" value=""/>
+            <property name="user.country" value="TW"/>
+            <property name="user.dir" value="D:\mygraphwalker\WineWorld"/>
+            <property name="user.home" value="C:\Users\ASUS"/>
+            <property name="user.language" value="zh"/>
+            <property name="user.name" value="ASUS"/>
+            <property name="user.script" value=""/>
+            <property name="user.variant" value=""/>
+        </properties>
+        <testcase name="WineWorldTest" time="16.909" classname="WineWorld.WineWorldTest"/>
+    </testsuite>
+</testsuites>
